@@ -1,0 +1,18 @@
+/* CSS UNIVERSAL RESET
+* {
+  margin: 0;
+  padding: 0;
+}END*/
+
+*{
+    font-family: Georgia, serif;
+}
+h1 {
+    text-align:center;
+}
+
+.facts {
+    display: inline-block;
+    width: 70%;
+    margin: 0 50px;
+}

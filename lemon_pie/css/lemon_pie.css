@@ -1,0 +1,25 @@
+*{
+    font-family: Georgia, serif;
+}
+
+
+h1 {
+    color:blue;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+.timer p{
+    margin:0;
+    padding:0;
+    color:green;
+}
+
+ol {
+    padding:0 0 0 20px;
+}
+
+img.lemonPic{
+    width: 300px;
+    height: 300px;
+}
