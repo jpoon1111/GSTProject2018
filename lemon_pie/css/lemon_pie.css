@@ -12,7 +12,7 @@ h1 {
 .timer p{
     margin:0;
     padding:0;
-    color:green;
+    background-color:green;
 }
 
 ol {
